@@ -1,0 +1,52 @@
+.flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bg-color {
+    background-color: #7ddb8ea3;
+}
+
+.gap {
+    gap: 30px;
+}
+
+.box-shadow {
+    box-shadow: 3px 3px 9px black;
+}
+
+.border {
+    border-top: 4px solid #7ddb8ea3;
+    
+}
+
+.dimension {
+    height: 40px;
+    width: 100px;
+}
+
+.padding {
+    padding: 10px;
+}
+
+.pointer {
+    cursor: pointer;
+}
+
+.font {
+    font-weight: 700;
+    font-size: 97%;
+}
+
+.txt-decor {
+    text-decoration: none;
+
+}
+
+.hide {
+    display: none;
+}
+.padding_h1{
+    padding: 10px;
+}
