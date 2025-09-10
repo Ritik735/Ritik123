@@ -55,7 +55,7 @@ body {
     align-items: center;
     width: 80vw;
     height: max-content;
-    font-size: 28px;
+    font-size: 4vh;
     display: flex;
     
 }
@@ -79,3 +79,4 @@ body {
     border-radius: 8px;
 
 }
+
